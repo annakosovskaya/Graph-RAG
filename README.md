@@ -1,5 +1,7 @@
 <h2 align="center">Building a Minimal Graph RAG System</h2>
 
+🔗 [Colab notebook with solutions](https://colab.research.google.com/drive/1P_9WA3HZ038aeTYx6MLosww61Gwu6gJZ?usp=sharing)
+
 <p align="center">
   <img src="https://api.weekly.vn/files/1/public/1742982227576_53644254-f92c-46e6-8555-cd4ea7fa135a"
        width="640" alt="RAG concepts">
